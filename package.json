@@ -2,8 +2,7 @@
   "name": "lab3",
   "version": "1.0.0",
   "main": "script.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "",
   "license": "ISC",
   "dependencies": {

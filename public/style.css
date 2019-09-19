@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+/* It is one the ids , only can be there*/
+#container{
+padding: 10px 5px;/* 2---top/bottom, left/right */
+background-color: royalblue;
+border: 10px solid white; /* 1---all sides */
+margin: 20px 10px 30px 10px; /* all 4---top right bottom left */
+width: 600px;
+display: flex;
+}
+
+/* It is one the class , many of these can be there*/
+.entry{
+
+    flex-grow: 1;
+
+}
